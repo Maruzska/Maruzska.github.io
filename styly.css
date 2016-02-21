@@ -1,0 +1,17 @@
+/*Toto je komentar, slouzi pouze pro poznamky. Svoje styly piste pod nej*/
+/*Napriklad:*/
+/*h1 { color: red; }*/
+
+nav li {
+	display: inline-block;
+	margin-right: 70px;
+}
+nav{
+background-color: blue;
+margin-top: 40px;
+color: white;
+text-align: center;
+}
+img{
+	width: 100px;
+}
